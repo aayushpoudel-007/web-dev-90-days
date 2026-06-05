@@ -4,6 +4,7 @@ My 90 day Web Development learning journey. Daily practice, projects, notes, and
 This repository documents my 90-day journey to becoming a full stack Web Developer.
 
 Repository structure:
+
 web-dev-90-days/
 │
 ├── Day-01/
